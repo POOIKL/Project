@@ -1,0 +1,13 @@
+yolo_model:
+
+  config_file:
+    name: indoor4.cfg
+  weight_file:
+    name: indoor4_final.weights
+  threshold:
+    value: 0.3
+  detection_classes:
+    names:
+      - Trash can
+      - Indicator panel
+
