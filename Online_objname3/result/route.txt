@@ -1,0 +1,5 @@
+1 -> 12:
+At 1 go forward. At 16 go forward. At 15 go forward. At 14 turn left. At 10 turn right. At 11 go forward. Then go forward, reach the end at 12.
+
+1 -> 8:
+At 1 go forward. At 16 go forward. At 15 go forward. At 14 turn right. At 9 turn right. Then go forward, reach the end at 8.
